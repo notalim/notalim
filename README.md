@@ -1,7 +1,6 @@
 hey \
 i'm just learning to use github \
-how to delete this line \
-and this one oh god \
+how to add a break on this line no not on this one oh god \
 
 <!--
 **notalim/notalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
