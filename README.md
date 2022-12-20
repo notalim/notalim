@@ -1,4 +1,8 @@
-### Hi there 👋
+### hey
+### i'm just learning to use github 
+### how to delete this line
+### and this one oh god
+### oh no
 
 <!--
 **notalim/notalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
