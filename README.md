@@ -1,5 +1,4 @@
-# __hey 🖖__
-i'm still learning how to use github
+# __hey 🖖, i'm alim__
 
 my links:
 
