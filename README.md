@@ -8,7 +8,7 @@ my links:
 
 `git gc`
 
-i'm a computer science student at stevens institute of technology with a minor in music technology. my coursework has included data structures, algorithms, computer architecture & organization, systems programming, principles of programming languages, and more.
+i'm a computer science student at stevens institute of technology with a minor in music technology.
 
 ## skills
 
