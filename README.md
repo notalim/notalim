@@ -13,6 +13,7 @@ i'm a computer science student at stevens institute of technology with a minor i
 ## skills
 
 * **languages:** javascript, python, c++, html, css, c, java, r / rstudio, bash, gdb, sql, c#
-* **technologies/tools:** linux, git, node.js, express, react, mongodb, three.js, tailwind, pandas, numpy, junit, latex, markdown, arc, notion, figma
+* **technologies:** git, node.js, express, react, mongodb, three.js, tailwind, pandas, numpy, junit, linux 
+* **tools:** latex, markdown, arc, notion, figma
 
 i'm in search of a job. feel free to reach out to me through my links above!
