@@ -1,4 +1,4 @@
-# hey 🖖 i'm alim
+# hi i'm alim
 
 my links:
 
