@@ -3,7 +3,7 @@
 my links:
 
 [linkedin](https://linkedin.com/in/notalim) |
-[portfolio](https://notalim.com/) |
+[portfolio](https://notalim.com/) 
 
 `git gc`
 
