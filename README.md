@@ -7,10 +7,12 @@ my links:
 
 `git gc`
 
-i'm a computer science student at stevens institute of technology with a minor in music technology.
+recent graduate from stevens institute of technology with a minor in music technology.
 
 ## skills
 * **languages**: JavaScript, React, Python, R, SQL, C++, Java, HTML, CSS, bash/zsh, gdb, OCaml, C, C#
-* **tools**:  Firebase, AWS, Git, RestFUL APIs, GraphQL, Node.js, Express, Next.js, MongoDB, Docker, Tailwind, Tableau, pandas, numpy, Selenium, Folium, PowerBI, LaTeX, Markdown, Linux, Figma, Bash & perl scripting
+* **web development**: React, Node.js, Express, Next.js, Apollo GraphQL, HTML / CSS, jQuery, Bootstrap
+* **tools and technologuies**:  Firebase, AWS, MongoDB, Docker, Git, bash/zsh scripting, Figma, Kubernetes, Markdown, Linux, Figma, Bash & perl scripting
+* **data analysis**: R, SQL (PostgreSQL, MySQL), pandas, numpy, PowerBI
 
 i'm in search of a job. feel free to reach out to me through my links above!
