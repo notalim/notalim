@@ -1,6 +1,6 @@
 # hi i'm alim
 
-> always open to collaboration
+> always open to collaboration | 
 > my links:
 > [portfolio](https://notalim.com/) |
 > [linkedin](https://linkedin.com/in/notalim) 
