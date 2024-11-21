@@ -1,11 +1,13 @@
 # hi i'm alim
 
+> always open to collaboration
+> my links:
+> [portfolio](https://notalim.com/) |
+> [linkedin](https://linkedin.com/in/notalim) 
+
 check out [oasis](https://oasis.ai/)
 
-my links:
 
-[portfolio](https://notalim.com/) |
-[linkedin](https://linkedin.com/in/notalim) 
 
 * [my component library](https://notalim.com/lib)
 * [pixl garden webring](https://pg-webring.vercel.app)
@@ -18,5 +20,4 @@ recent graduate from stevens institute of technology with a minor in music techn
 * **tools and technologies**: firebase, aws, gcp, mongodb, docker, git, bash/perl scripting, figma, kubernetes
 * **data analysis**: r, sql (postgresql, mysql), pandas, numpy, pyspark, powerbi, tableau, excel
 
-i'm in search of a job. feel free to reach out to me through my links above!
 
