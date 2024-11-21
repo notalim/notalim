@@ -1,5 +1,7 @@
 # hi i'm alim
 
+check out [oasis](https://oasis.ai/)
+
 my links:
 
 [portfolio](https://notalim.com/) |
