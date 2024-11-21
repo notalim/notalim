@@ -5,7 +5,7 @@
 > [portfolio](https://notalim.com/) |
 > [linkedin](https://linkedin.com/in/notalim) 
 
-check out [oasis](https://oasis.ai/)
+** check out [oasis](https://oasis.ai/) **
 
 
 
