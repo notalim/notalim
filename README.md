@@ -5,8 +5,6 @@
 > [portfolio](https://notalim.com/) |
 > [linkedin](https://linkedin.com/in/notalim) 
 
-** check out [oasis](https://oasis.ai/) **
-
 
 
 * [my component library](https://notalim.com/lib)
