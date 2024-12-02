@@ -1,21 +1,17 @@
-# hi i'm alim
+# hi, i'm alim
 
-> always open to collaboration | 
-> my links:
-> [portfolio](https://notalim.com/) |
-> [linkedin](https://linkedin.com/in/notalim) 
+always open to collaboration |   
+[portfolio](https://notalim.com) · [linkedin](https://linkedin.com/in/notalim)
 
+🌱 recent graduate with a minor in music tech 
+🚀 currently working at a stealth startup. more soon
 
+## skills  
+- **programming languages**: typescript, javascript, python, go, svelte, java, swiftui, c++, c#, ocaml  
+- **frameworks & tools**: react, next.js, node.js, flask, graphql, tailwind, mongodb, firebase, aws, docker  
+- **data magic**: pandas, numpy, sql (postgresql, mysql), pyspark, tableau  
 
-* [my component library](https://notalim.com/lib)
-* [pixl garden webring](https://pg-webring.vercel.app)
-
-recent graduate from stevens institute of technology with a minor in music technology.
-
-## skills
-* **programming languages**: typescript, javascript, python, go, svelte, java, swiftui, c++, c#, ocaml, r
-* **web development**: react, node.js, express, next.js, tailwind css, flask, graphql, html/css, jquery, bootstrap
-* **tools and technologies**: firebase, aws, gcp, mongodb, docker, git, bash/perl scripting, figma, kubernetes
-* **data analysis**: r, sql (postgresql, mysql), pandas, numpy, pyspark, powerbi, tableau, excel
-
-
+## check out
+- [my component library](https://notalim.com/lib)  
+- [pixl garden webring](https://pg-webring.vercel.app)
+- [my blog (coming soon)]
