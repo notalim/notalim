@@ -3,8 +3,8 @@
 always open to collaboration |   
 [portfolio](https://notalim.com) · [linkedin](https://linkedin.com/in/notalim)
 
-🌱 recent graduate with a minor in music tech 
-🚀 currently working at a stealth startup. more soon
+* 🌱 recent graduate with a minor in music tech 
+* 🚀 currently working at a stealth startup. more soon
 
 ## skills  
 - **programming languages**: typescript, javascript, python, go, svelte, java, swiftui, c++, c#, ocaml  
