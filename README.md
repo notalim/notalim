@@ -1,6 +1,6 @@
 # hi, i'm alim
 
-open to commission
+open to commissions
 
 * 🌱 recent graduate with a minor in music tech 
 * 🚀 currently working at a stealth startup. more soon
