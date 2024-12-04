@@ -1,7 +1,6 @@
 # hi, i'm alim
 
-always open to collaboration |   
-[portfolio](https://notalim.com) · [linkedin](https://linkedin.com/in/notalim)
+open to commission
 
 * 🌱 recent graduate with a minor in music tech 
 * 🚀 currently working at a stealth startup. more soon
@@ -12,6 +11,9 @@ always open to collaboration |
 - **data magic**: pandas, numpy, sql (postgresql, mysql), pyspark, tableau  
 
 ## check out
+- [portfolio](https://notalim.com)
 - [my component library](https://notalim.com/lib)  
+- [linkedin](https://linkedin.com/in/notalim)
 - [pixl garden webring](https://pg-webring.vercel.app)
-- [my blog (coming soon)]
+
+- dev blog (maybe..)
