@@ -14,6 +14,5 @@ open to commissions
 - [portfolio](https://notalim.com)
 - [my component library](https://notalim.com/lib)  
 - [linkedin](https://linkedin.com/in/notalim)
-- [pixl garden webring](https://pg-webring.vercel.app)
 
 - dev blog (maybe..)
