@@ -1,7 +1,5 @@
 # hi, i'm alim
 
-open to commissions
-
 * 🌱 recent graduate with a minor in music tech 
 * 🚀 currently working at a stealth startup. more soon
 
@@ -14,5 +12,3 @@ open to commissions
 - [portfolio](https://notalim.com)
 - [my component library](https://notalim.com/lib)  
 - [linkedin](https://linkedin.com/in/notalim)
-
-- dev blog (maybe..)
